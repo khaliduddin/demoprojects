@@ -1,0 +1,3 @@
+[submodule "nft-challenge"]
+	path = nft-challenge
+	url = ./nft-challenge
